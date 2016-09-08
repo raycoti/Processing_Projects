@@ -1,5 +1,9 @@
 //Raymond Coti Project 1
-
+//it uses examples from tutorials
+//users use the mouse to move the batter in the batter's box
+//click to swing, the timing of your swing changes the ball flight.
+//game tends to freeze when making it an executable
+//havent touched this code in years but would like to know if you see potential causes 
 
 float Xangle= 155;//bat angle
 boolean gameover = false;//to check if the player has lost yet
