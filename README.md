@@ -1,9 +1,9 @@
 # Processing_Projects
 Home Run Derby Game and Collision Game
-#Table of Contents
-##[Background](#background)
-##[Home Run Derby](#homerun)
-##[Collision Game](#collision)
+##Table of Contents
+###[Background](#background)
+###[Home Run Derby](#homerun)
+###[Collision Game](#collision)
 <a name = "background" />
 ###Background
 These are two game projects I completed during a crash course in Processing. 
